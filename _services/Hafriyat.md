@@ -1,10 +1,16 @@
 ---
 title: Hafriyat
-date: {}
+date: 2018-12-28T05:14:39.000Z
 weight: 1
 published: true
 ---
 
+---
+title: Hafriyat
+date: 2018-12-28T15:14:39+10:00
+weight: 1
+published: true
+---
 
 _## A New Post
 
