@@ -11,6 +11,6 @@ show_call_box: true
 published: true
 ---
 
-# HatayBenimSahsiMeselem.com
+# Hatay Benim Şahsi Meselem
 
 Hatay'ın orta ve uzun vadede ihtiyacı olan hali haızrda başlamış ve başlatılması gereken çalışmaları listelediğimiz bir platformdur. #HatayBenimSahsiMeselem
