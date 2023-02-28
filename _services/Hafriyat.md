@@ -1,6 +1,6 @@
 ---
-title: Hafriyat
-date: 2020-12-28T05:14:39.000Z
+title: 2023-02-28-Hafriyat
+date: {}
 weight: 1
 published: true
 ---
