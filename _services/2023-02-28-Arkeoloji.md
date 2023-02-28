@@ -1,10 +1,10 @@
 ---
 title: Arkeoloji
-date: 2018-12-28T15:14:39+10:00
+date: {}
 weight: 1
 published: true
 ---
 
-## A New Post
+## Arkeoloji alanında devam etmekte ve başlaması planlanan çalışmalar
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
