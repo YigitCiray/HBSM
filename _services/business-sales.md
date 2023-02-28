@@ -1,6 +1,6 @@
 ---
 title: Mimari
-date: {}
+date: 2020-01-28T05:15:26.000Z
 weight: 2
 published: true
 ---
