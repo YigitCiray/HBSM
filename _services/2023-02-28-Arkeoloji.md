@@ -1,6 +1,6 @@
 ---
 title: Arkeoloji
-date: {}
+date: 2020-12-28T05:14:39.000Z
 weight: 1
 published: true
 ---
