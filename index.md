@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Hatay Benim Şahsi Meselem
 layout: home
 description: >-
   Hatay’ın orta ve uzun vadede ihtiyacı olan hali haızrda başlamış ve
