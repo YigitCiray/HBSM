@@ -1,5 +1,5 @@
 ---
-title: Accounting
+title: Accountings
 date: {}
 weight: 1
 published: false
