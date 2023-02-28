@@ -1,5 +1,5 @@
 ---
-title: Hafriyat.md
+title: Hafriyat
 date: {}
 weight: 1
 published: true
