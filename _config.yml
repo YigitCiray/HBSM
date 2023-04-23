@@ -37,6 +37,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-leaflet
 
 exclude:
   - Gemfile
