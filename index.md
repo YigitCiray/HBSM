@@ -15,11 +15,7 @@ published: true
 
 Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. 
 
-{% leaflet_map {"zoom": 9 } %}
-    {% leaflet_marker { "latitude" : 41.881832,
-                        "longitude" : -87.623177,
-                        "popupContent" : "Hello World from Chicago!" } %}
-{% endleaflet_map %}
+
 
 [Hatay Yarım Dağıtım Merkezleri Kayıt Formu](https://forms.gle/6dU1vnW2PV9jeP7KA)
 
