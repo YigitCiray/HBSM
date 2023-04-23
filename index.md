@@ -13,6 +13,14 @@ published: true
 
 # Hatay Benim Şahsi Meselem
 
+{% leaflet_map { "center" : [37.921000,  15.987940],
+                 "zoom" : 15,
+                 "providerBasemap": "OpenStreetMap.Mapnik" } %}
+     {% leaflet_marker { "latitude" : 37.921000,
+                    "longitude" : 15.987940,
+                    "popupContent" : "Località la Terrazza"} %}
+{% endleaflet_map %}
+
 Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. 
 
 
