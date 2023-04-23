@@ -13,7 +13,7 @@ published: true
 
 # Hatay Benim Şahsi Meselem
 
-Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. #HatayBenimSahsiMeselem
+Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. 
 
 {% leaflet_map %}
     {}
