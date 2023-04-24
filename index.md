@@ -20,7 +20,7 @@ locations:
 # Hatay Benim Şahsi Meselem
 
 {% if page.locations %} 
-<img src="http://maps.googleapis.com/maps/api/staticmap?{% for location in page.locations %}{% if forloop.first %}center={{location}}&markers=color:blue%7C{{location}}{% else %}&markers=color:blue%7C{{location}}{% endif %}{% endfor %}&zoom={% if page.zoom %}{{page.zoom}}{% else %}13{% endif %}&size=300x200&scale=2&sensor=false&visual_refresh=true" alt="">
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=37.921000,15.987940&zoom=14&size=400x400&key=AIzaSyBGbEXxlo63Nt1-z1tkEFr34fbeAJdJwLQ" alt="">
 {% endif %}
 
 
