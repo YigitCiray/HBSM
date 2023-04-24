@@ -50,6 +50,3 @@ exclude:
   - LICENSE
   - README.md
   
-maps:
-  google:
-    api_key: AIzaSyAuzyU0im-u2Y8ei4mUnKEDMvRs6FZ9qC8
