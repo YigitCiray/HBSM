@@ -13,7 +13,7 @@ published: true
 
 # Hatay Benim Şahsi Meselem
 
-{% google_map %}
+
 
 Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. 
 
