@@ -9,6 +9,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 published: true
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
 ---
 
 # Hatay Benim Şahsi Meselem
