@@ -37,8 +37,8 @@ sass:
 
 plugins:
   - jekyll-environment-variables
-  - jekyll-leaflet
-
+  - jekyll-maps
+    
 exclude:
   - Gemfile
   - Gemfile.lock
