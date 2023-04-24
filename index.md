@@ -19,9 +19,9 @@ locations:
 
 # Hatay Benim Şahsi Meselem
 
-{% if page.locations %} 
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=40.714728,-73.998672&zoom=12&size=400x400&key=AIzaSyBGbEXxlo63Nt1-z1tkEFr34fbeAJdJwLQ" alt="">
-{% endif %}
+
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=63.259591,-144.667969&zoom=6&size=400x400&markers=color:blue%7C62.107733,-145.541936&key=AIzaSyBGbEXxlo63Nt1-z1tkEFr34fbeAJdJwLQ" alt="">
+
 
 
 Hatay'ın orta ve uzun vadede ihtiyacı olan hali hazırda başlamış ve başlatılması planlanan çalışmaları listelediğimiz bir platform. 
